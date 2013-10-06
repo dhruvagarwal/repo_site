@@ -259,7 +259,7 @@ header .header-in h1 a{display:block;  width:335px; height:130px; float:left;}
 .headerMore{background-color:#ff0000 !important; position:fixed;}
 
 /* HEADER QUICL CONTACT PART */
-#about{height:930px; /*height:850px;*/ margin-top:543px !important; z-index:200; border:0px solid #ff0000}
+#about{height:350px; /*height:850px;*/ margin-top:543px !important; z-index:200; border:0px solid #ff0000}
 #about .about-in h2{width:1000px; font-size:2.3em; color:#656464; padding:10px 0 50px 0; border-bottom:1px solid #cccccc; margin:0 auto 0 auto;  background-position:0 0; background-repeat:repeat;  position:relative; z-index:50; text-align:center;}
 #about .about-in h2 .one{color:#151515;}
 #about .about-in h2 .two{color:#434343; }
@@ -588,14 +588,14 @@ header.port-header {height:69px;  position:fixed !important}
 nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {display:none;}
 @media screen and  (min-width: 310px) and (max-width: 479px)
 {
-	
+
 	header.port-header {height:49px !important;}
-	
+
 	.awards-all{display:none}
 	.res-bg{display:none}
-	
+
 	.undercns{height:437px; display:none; position:absolute; width:310px; z-index:1000; font-size:3em; color:#fff; background-color:#000; text-align:center;}
-	 
+
 	 nav {overflow:visible;}
 	 .nav-active{background-color:#000 !important; height:48px;}
 	.nav-in-link {display:none;}
@@ -624,7 +624,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:788px auto !important;   
   -khtml-background-size:788px auto !important;   
   -moz-background-size:788px auto !important;}
-		
+
 	#creative-lab{padding-top:0;}	
 	#creative-lab	h2{font-size:4.5em; background-position:center -969px; padding:10px 0 30px 0 ; line-height:17px;
 	background-size: 1070px auto !important;
@@ -632,7 +632,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:1070px auto !important;   
   -khtml-background-size:1070px auto !important;   
   -moz-background-size:1070px auto !important;}
-	
+
 	#creative-lab h2 span.one{margin:0 64px 0 -109px; letter-spacing:0; font-size:0.5em; line-height:42px;}
 	#creative-lab h2 span.two{margin:0 0 0 187px; font-size:0.5em;}
 	#lab{margin-top:0;}
@@ -642,13 +642,13 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#our-work .work-in p{font-size:0.9em; margin:0 30px ;}
 	#our-work .work-in h4{ font-size:1.4em !important; margin-top:15px; margin-bottom:15px; line-height:25px;}	
 	#our-work .work-in a.git{font-size:1.3em !important; width:265px; padding:15px 0 15px 0;}
-		
+
 	#our-work h3{font-size:1.3em; line-height:20px;  padding:0 0 20px 0;}
 /* SLIDER PART */
 	#slider{height:425px; width:100%; display:block; margin:0 auto !important; }
 	#slider img{width:100%; margin-top: 10px; height:340px;}
 	/*#slider .slider_in { display:block; float:left; overflow:hidden; width:100%;}*/
-	
+
 /* END SLIDER PART */
 	#headerimgs{height:327px; display:none;}
 	#headerimgs div{
@@ -667,21 +667,21 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:530px auto !important;   
   -moz-background-size:530px auto !important;
   background-size: 530px auto !important;}
-	
+
 	.topicBg2{display:none;}
 	.topicBg2-none{height:449px; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;}
-	
+
 	#our-work .topicBg{height:437px;}
 	#our-work .catagory {background:none;}
 	#our-work .topicBg .catagory-in{width:310px !important;}
 	#our-work .topicBg .catagory-in a{font-size:4.7em; letter-spacing:-5px; margin-top:0px !important; height:132px; text-align:center; border-bottom:5px solid #fff;}
 	#our-work .topicBg .catagory-in a span{font-size:16px;  margin:-9px 0 0 6px; font-family:'myriadPro-Semibold'; line-height:17px; }
-	
+
 	#our-work .catagory .catagory-in a.web{width:275px; margin:9px 0 0 15px !important;}
 	#our-work .catagory .catagory-in a.brand{margin-left:15px!important; width:275px; margin-top:7px !important}
 	#our-work .catagory .catagory-in a.app{margin-left:15px !important; width:275px; border:none;  margin-top:7px !important}
 	#our-work .topicBg .catagory-in a.app span {margin-top:0px;}
-	
+
 	.cont .n1 span{background-position:14px -25px;}
 	.b0{background-position:-30px -262px;}
 
@@ -691,7 +691,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:1200px auto !important;   
   -moz-background-size:1200px auto !important;
   background-size: 1200px auto !important;}
-	
+
 	#about{margin-top:0 !important; height:955px; border:0px solid #000}
 	#about .about-in h2{padding:20px 0 20px 0; width:310px !important; font-size:1.2em;}
 	#about ul{margin-top:8px;}
@@ -702,12 +702,12 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#about ul li .iq{padding-left:0; line-height:41px;}
 	#about ul li.lr2{width:300px !important; padding:0px 0 0;}
 	#about ul li.lr2 .social{margin-left:51px !important;  margin-top:13px;}
-	
+
 	#about ul li.m-email{width:311px; border:none;}
 	#about ul li.m-email a{ line-height:41px;}
 	#about ul li.lr .social{margin-left:9px; }
 	#awwward{width:310px}
-	
+
 	#awards{width:310px; margin-top:85px; background-position:center -625px;
 	-o-background-size:835px auto !important;  
   -webkit-background-size:835px auto !important;   
@@ -715,7 +715,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -moz-background-size:835px auto !important;
   background-size: 835px auto !important;}
 	#awards a{padding:132px 0 10px; font-size:1.1em; width:310px;}
-	
+
 	#awards #awww {padding:20px 0; background-image:none; margin:25px 0;}
 	#awww .awww_in, #awww .logobite {width:100%; float:left !important;}
 	#awww .logobite {margin-top:20px;}
@@ -726,17 +726,17 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#awww .awww_in a, #awww .logobite a {font-size:1.2em;}
 	#awards p {font-size:1em;}
 	#awards label {font-size:0.9em;}
-	
+
 	.footer-in h6 a{font-size:1em; width:250px; margin-left:19px; padding: 8px 10px;}
 	.footer-in p{font-size:1.3em; margin:30px 25px;}
 	.footer-in ul{margin-left:10px}
 	.footer-in{border:0px solid #000; width:310px;}
 	.footer-in li{float:left; border:0px solid #000}
 	.footer-in h6{background-position:center -2064px;  margin-top:25px !important; font-size: 2.3em;}
-	
+
 	.cont .n1 span{background-position:4px -232px !important;}
 	.cont .n2 span{background-position:-211px -2983px !important;}
-	
+
 	.address{font-size:1.4em; padding:25px 0 20px;}
 	.address ul li{margin-bottom:20px; font-size:1em}
 	.address ul li.add, .address ul li.mob, .address ul li.eml, .address ul li.sn {margin-left:30px;} 
@@ -744,7 +744,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.address ul li.mob{width:130px;  padding:0 0 0 55px; margin-bottom:-12px;}
 	.address ul li.eml{width:200px;  padding:0 0 0 53px; }
 	.address ul li.sn{width:90px;  padding:0 0 0 55px; background-position: -438px -2202px;}
-	
+
 	#studio{padding-top:110px;}
 	#studio h2{background-position:center -630px; padding:0 0 10px 0;}
 	#studio .studio-in h4{width:298px; font-size:1.2em; padding:10px 0; margin-left:9px;}
@@ -783,7 +783,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.work_box2{background-position:-198px -1578px;}
 	.work_box3{background-position:-425px -1578px;}
 	.work_box1 span,.work_box2 span,.work_box3 span {display:none;}
-	
+
 	.innerBgSmall{height:1064px; width:1229px; background-image:url("../images/innterBg.png");  top:-342px; left:-100px;position:absolute; background-position:center 0; background-repeat:no-repeat; z-index:30}
 	.innerBg{display:none;}
 	.nav-in{width:100% !important;}
@@ -801,7 +801,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.contact-us-in h6{padding:10px 0 30px; text-align:center;}
 	.contact-us-in h6 span {margin:3px 60px 0 0;}
 	.contact-us-in .quick-contact{height:179px;}
-	
+
 	.quick-contact-in ul li {margin-left:5px; width:310px;}
 	.quick-contact-in ul li h3{display:none;}
 	.quick-contact-in ul li.header{ width:148px; margin:-29px 0 0; line-height:34px;}
@@ -817,7 +817,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.ins-quote-in ul li.form .gmt{margin-right:62px !important; width:308px !important; font-size:1.4em !important;}
 	.process{margin-right:0;}
 	.likeUs{display:none}
-	
+
 	.quick-contactBg{display:none;}
 	.quick-contactBg-non{height:179px; position:absolute; width:100%; background-color:#d40a37; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px;  background-position:-647px -9px;  background-size: 1177px auto !important; -o-background-size:1177px auto !important;  
   -webkit-background-size:1177px auto !important;   
@@ -871,12 +871,12 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 #app_port .part8 {height:450px;}
 #app_port .part9 {height:392px;}
 /*----- End Portfolio Part ------*/
-	
+
 }
 
 
 @media screen and  (min-width: 480px) and (max-width: 629px){
-	
+
 	.awards-all{display:none}
 	header.port-header {height:49px !important;}
 	.res-bg{display:none}
@@ -908,7 +908,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:788px auto !important;   
   -khtml-background-size:788px auto !important;   
   -moz-background-size:788px auto !important;}
-		
+
 	#creative-lab{padding-top:0;}	
 	#creative-lab	h2{font-size:5em; background-position:center -756px; padding:0 0 15px 0 ; line-height: 24px;
 	background-size: 958px auto !important;
@@ -916,7 +916,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:958px auto !important;   
   -khtml-background-size:958px auto !important;   
   -moz-background-size:958px auto !important;}
-	
+
 	#creative-lab h2 span.one{margin:0 62px 0 -122px; letter-spacing:0; font-size:0.6em; line-height: 43px;}
 	#creative-lab h2 span.two{margin:0 0 0 202px; font-size:0.6em;}
 	#lab{margin-top:0;}
@@ -926,9 +926,9 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#our-work .work-in p{font-size:0.9em; margin:0 30px ;}
 	#our-work .work-in h4{ font-size:1.4em !important; margin-top:20px; margin-bottom:30px;}	
 	#our-work .work-in a.git{font-size:1.5em !important; width:300px; padding:10px 0 10px 0;}
-		
+
 	#our-work h3{font-size:1.5em; line-height:24px;  padding:0 0 20px 0;}
-	
+
 	#headerimgs{display:none;}
 /* SLIDER PART */
 	#slider{height:440px; width:100%; display:block; margin:0 auto !important; }
@@ -950,24 +950,24 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:652px auto !important;   
   -moz-background-size:652px auto !important;
   background-size: 652px auto !important;}
-	
+
 	.topicBg2{display:none;}
 	.topicBg2-none{height:430px; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px; background-position:-376px -99px; background-size: 1014px auto !important; -o-background-size:1014px auto !important;  
   -webkit-background-size:1014px auto !important;   
   -khtml-background-size:1014px auto !important;   
   -moz-background-size:1014px auto !important; background-repeat:no-repeat; z-index:20;}
-	
+
 	#our-work .topicBg{height:355px;}
 	#our-work .catagory {background:none;}
 	#our-work .topicBg .catagory-in{width:480px !important;}
 	#our-work .topicBg .catagory-in a{font-size:5.6em; letter-spacing:-5px; margin-top:25px !important; height:70px; border-bottom:5px solid;}
 	#our-work .topicBg .catagory-in a span{font-size:16px; margin:-73px 0 0 204px; line-height: 16px;}
-	
+
 	#our-work .catagory .catagory-in a.web{width:415px; margin-left:30px !important;}
 	#our-work .catagory .catagory-in a.brand{margin-left:30px !important; width:415px;}
 	#our-work .catagory .catagory-in a.app{margin-left:30px !important; width:415px;}
-	
-	
+
+
 	.cont .n1 span{background-position:14px -25px;}
 	.b0{background-position:-30px -262px;}
 
@@ -977,7 +977,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:1200px auto !important;   
   -moz-background-size:1200px auto !important;
   background-size: 1200px auto !important;}
-	
+
 	#about{margin-top:0 !important; height:642px; border:0px solid #000}
 	#about .about-in h2{padding:20px 0 20px 0; width:420px !important; font-size:1.5em;}
 	#about ul{margin-top:8px;}
@@ -988,12 +988,12 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#about ul li .iq{padding-left:13px; line-height:41px;}
 	#about ul li.lr2{width:370px !important; padding:0px 0 0;}
 	#about ul li.lr2 .social{margin-left:136px !important;  margin-top:13px;}
-	
+
 	#about ul li.m-email{width:479px; border:none;}
 	#about ul li.m-email a{ line-height:41px;}
 	#about ul li.lr .social{margin-left:9px; }
 	#awwward{width:480px}
-	
+
 	#awards{width:480px; margin-top:65px; background-position:center -844px;
 	-o-background-size:971px auto !important;  
   -webkit-background-size:971px auto !important;   
@@ -1001,7 +1001,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -moz-background-size:971px auto !important;
   background-size: 971px auto !important;}
 	#awards a{padding:38px 0 10px; font-size:1.1em}
-	
+
 	#awards #awww {padding:20px 0; margin:10px 0; background-position: -192px -1616px; background-size: 909px auto !important;}
 	#awww .awww_in {width:45% !important;}
 	#awww .logobite {width:38% !important;}
@@ -1013,24 +1013,24 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#awww .awww_in a, #awww .logobite a {font-size:1em;}
 	#awards p {font-size:1.2em; margin:0 !important;}
 	#awards label {font-size:0.8em;}
-	
+
 	.footer-in h6 a{font-size:1em; width:352px; margin-left:47px;}
 	.footer-in p{font-size:1.5em; margin:30px 25px;}
 	.footer-in ul{margin-left:10px}
 	.footer-in{border:0px solid #000; width:480px;}
 	.footer-in li{float:left; border:0px solid #000}
 	.footer-in h6{background-position:center -2064px;  margin-top:25px !important;}
-	
+
 	.cont .n1 span{background-position:4px -232px !important;}
 	.cont .n2 span{background-position:-211px -2983px !important;}
-	
+
 	.address{font-size:1.4em; padding:25px 0 20px;}
 	.address ul li{margin-bottom:20px; font-size:1em}
 	.address ul li.add{width:198px; padding:0 0 0 53px; margin-left:10px; }
 	.address ul li.mob{width:130px;  padding:0 0 0 55px;}
 	.address ul li.eml{width:200px;  padding:0 0 0 53px; margin-left:10px; }
 	.address ul li.sn{width:90px;  padding:0 0 0 55px;}
-	
+
 	#studio{padding-top:110px;}
 	#studio h2{background-position:center -630px; padding:0 0 10px 0;}
 	#studio .studio-in h4{width:480px; font-size:1.3em; padding:10px 0;}
@@ -1058,8 +1058,8 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:211px auto !important;   
   -moz-background-size:211px auto !important;}
 	.b2 h5 span.big{font-size:1.3em;}
-	
-		
+
+
 	#creative-lab p{font-size:1.3em}
 	.b1 h5{line-height:30px !important;}
 	.b1 h5, .b2 h5, .b3 h5{line-height:35px; margin-top:22px; font-size:2.3em;}
@@ -1067,8 +1067,8 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.work_box1{background-position:25px -1578px;}
 	.work_box2{background-position:-198px -1578px;}
 	.work_box3{background-position:-425px -1578px;}
-	
-	
+
+
 	.innerBgSmall{height:1064px; width:1229px; background-image:url("../images/innterBg.png");  top:-342px; left:-100px;position:absolute; background-position:center 0; background-repeat:no-repeat; z-index:30}
 	.innerBg{display:none;}
 	.nav-in{width:100% !important;}
@@ -1086,9 +1086,9 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.contact-us-in h6{padding:14px 7px 29px;}
 	.contact-us-in h6 span {float:left;}
 	.contact-us-in .quick-contact{height:100px;}
-	
+
 	.quick-contact-in ul li {width:229px;}
-	
+
 	.quick-contact-in ul li h3{display:none;}
 	.quick-contact-in ul li.header{ width:148px; margin:-29px 0 0; line-height:34px;}
 	.quick-contact-in ul li.imail{font-size:0.8em; width:241px; padding-top:28px; margin-left:10px; line-height:20px;}
@@ -1109,10 +1109,10 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.ins-quote-in ul li.form .gmt{margin-right:187px !important;}
 	.process{margin-right:0;}
 	.likeUs{display:none}
-	
+
 	.quick-contact-in ul li.imail a{ color:#fff; font-size:2.2em;}
   .quick-contact-in ul li.imail span{display:block;  letter-spacing:0;  font-size:0.6em;}
-	
+
 	.quick-contactBg{display:none;}
 	.quick-contactBg-non{height:120px; position:absolute; width:100%; background-color:#d40a37; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px;  background-position:center 0; background-repeat:no-repeat; z-index:20;}
 /*----- Start Portfolio Part ------*/
@@ -1143,7 +1143,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.awards-all{display:none}
 	header.port-header {height:69px !important;}
 	.res-bg{display:none}
-	
+
 	.undercns{height:220px; display:none; position:absolute; width:640px; z-index:1000; font-size:3em; color:#fff; background-color:#000; text-align:center;}
 	#contact-us .contactusMap{background-image:none;}
 	.studioBg2{display:none !important;}
@@ -1157,7 +1157,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:788px auto !important;   
   -khtml-background-size:788px auto !important;   
   -moz-background-size:788px auto !important;}
-		
+
 	#creative-lab{padding-top:0;}	
 	#creative-lab	h2{font-size:5em; background-position:center -757px; padding:0px 0 20px 0 ; line-height: 24px;
 	background-size: 958px auto !important;
@@ -1165,7 +1165,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:958px auto !important;   
   -khtml-background-size:958px auto !important;   
   -moz-background-size:958px auto !important;}
-	
+
 	#creative-lab h2 span.one{margin:0 58px 0 -125px; letter-spacing:0; font-size:0.6em; line-height: 43px;}
 	#creative-lab h2 span.two{margin:0 0 0 199px; font-size:0.6em;}
 	#lab{margin-top:0;}
@@ -1175,9 +1175,9 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#our-work .work-in p{font-size:0.9em; margin:0;}
 	#our-work .work-in h4{ font-size:1.8em !important; margin-top:20px; margin-bottom:30px;}	
 	#our-work .work-in a.git{font-size:1.5em !important; width:300px; padding:10px 0 10px 0;}
-		
+
 	#our-work h3{font-size:1.8em; line-height:29px;  padding:0 0 20px 0;}
-	
+
 	#headerimgs{height:357px}
 	#headerimgs div{
 	-o-background-size:872px auto !important;  
@@ -1195,19 +1195,19 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:872px auto !important;   
   -moz-background-size:872px auto !important;
   background-size: 872px auto !important;}
-	
+
 	.topicBg2{display:none;}
 	.topicBg2-none{height:220px; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;}
-	
+
 	#our-work .topicBg{height:220px;}
 	#our-work .topicBg .catagory-in{width:740px !important;}
 	#our-work .topicBg .catagory-in a{font-size:5em; letter-spacing:-5px; margin-top:50px !important;}
 	#our-work .topicBg .catagory-in a span{font-size:16px}
-	
+
 	#our-work .catagory .catagory-in a.web{width:206px; margin-left:20px !important;}
 	#our-work .catagory .catagory-in a.brand{margin-left:5px !important; width:200px;}
 	#our-work .catagory .catagory-in a.app{margin-left:15px !important; width:210px;}
-	
+
 	.cont .n1 span{background-position:14px -25px;}
 	.b0{background-position:-30px -262px;}
 
@@ -1217,7 +1217,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -khtml-background-size:1200px auto !important;   
   -moz-background-size:1200px auto !important;
   background-size: 1200px auto !important;}
-	
+
 	#about{margin-top:0 !important; height:560px; border:0px solid #000}
 	#about .about-in h2{padding:20px 0 20px 0; width:580px !important; font-size:1.7em;}
 	#about ul{margin-top:25px;}
@@ -1228,12 +1228,12 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#about ul li .iq{padding-left:13px; line-height:41px;}
 	#about ul li.lr2{width:190px !important; padding:00px 0 0;}
 	#about ul li.lr2 .social{margin-left:0 !important;  margin-top:5px;}
-	
+
 	#about ul li.m-email{width:240px;}
 	#about ul li.m-email a{ line-height:41px;}
 	#about ul li.lr .social{margin-left:9px; }
 	#awwward{width:640px}
-	
+
 	#awards{width:640px; margin-top:70px; background-position: center -844px;
 	-o-background-size:971px auto !important;  
   -webkit-background-size:971px auto !important;   
@@ -1248,24 +1248,24 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.awww_in h5, .logobite h5 {margin-top:10px !important;}
 	#awww .awww_in a, #awww .logobite a {font-size:1em;}
 	#awards label {font-size:1em;}
-	
+
 	.footer-in h6 a{font-size:1em; width:352px; margin-left:131px;}
 	.footer-in p{font-size:1.5em; margin:40px 95px;}
 	.footer-in ul{margin-left:10px}
 	.footer-in{border:0px solid #000; width:640px;}
 	.footer-in li{float:left; border:0px solid #000}
 	.footer-in h6{background-position:center -2064px;}
-	
+
 	.cont .n1 span{background-position:4px -232px !important;}
 	.cont .n2 span{background-position:-211px -2983px !important;}
-	
+
 	.address{font-size:1.4em; padding:25px 0 20px;}
 	.address ul li{margin-bottom:20px;  font-size:1em}
 	.address ul li.add{width:220px; padding:0 0 0 53px; margin-left:80px; }
 	.address ul li.mob{width:200px;  padding:0 0 0 55px;}
 	.address ul li.eml{width:220px;  padding:0 0 0 53px; margin-left:80px; }
 	.address ul li.sn{width:220px;  padding:0 0 0 55px;}
-	
+
 	#studio{padding-top:110px;}
 	#studio h2{background-position:center -630px; padding:0 0 10px 0;}
 	#studio .studio-in h4{width:640px; font-size:1.5em; padding:10px 0;}
@@ -1292,7 +1292,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -webkit-background-size:261px auto !important;   
   -khtml-background-size:261px auto !important;   
   -moz-background-size:261px auto !important;}
-		
+
 	.b1 h5, .b2 h5, .b3 h5{line-height:35px; margin-top:22px; font-size:2.3em;}
 	.work_box1, .work_box2, .work_box3{margin-top:15px;  background-image:none; padding:0; font-size:1.3em;}
 	.work_box1{background-position:25px -1578px;}
@@ -1314,7 +1314,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.contact-us-in .ins-quote{height:234px;}
 	.contact-us-in h6{padding:14px 25px 11px;}
 	.contact-us-in .quick-contact{height:100px;}
-	
+
 	.quick-contact-in ul li h3{display:none;}
 	.quick-contact-in ul li.header{ width:148px; margin:-29px 0 0; line-height:34px;}
 	.quick-contact-in ul li.imail{font-size:0.9em; width:284px; padding-top:19px; margin-left:25px}
@@ -1326,10 +1326,10 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.ins-quote-in ul li.form .gmt{margin-right:62px !important;}
 	.process{margin-right:0;}
 	.likeUs{display:none}
-	
+
 	.quick-contact-in ul li.imail a{ color:#fff; font-size:2.2em;}
   .quick-contact-in ul li.imail span{display:block;  letter-spacing:0;  font-size:1.4em !important;}
-	
+
 	.quick-contactBg{display:none;}
 	.quick-contactBg-non{height:120px; position:absolute; width:100%; background-color:#d40a37; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px;  background-position:center 0; background-repeat:no-repeat; z-index:20;}
 /*----- Start Portfolio Part ------*/
@@ -1345,7 +1345,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#portfolio-in {width: 600px; height:2035px; }
 	#portfolio-in .box {width:297px !important;}
 	#portfolio-in .box a img {width:297px !important;}
-	
+
 	/*----- Web Part -----*/	
 #web_port .part1 {height:444px;}
 #web_port .part2 {height:289px;}
@@ -1391,34 +1391,34 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.awards-all{display:none}
 	header.port-header {height:69px !important;}
 	.res-bg{display:none}
-	
+
 	.undercns{height:253px; display:none; position:absolute; width:738px; z-index:1000; font-size:3em; color:#fff; background-color:#000; text-align:center;}
 	.studioBg2{display:none !important;}
 	.contact-us-in, #about .about-in, .studio-in, .awwward-in, .loc-ico, .work-in, #awards{margin:0 auto 0 auto; width:760px !important;}
-	
+
 	#awwward{font-size:3.0em; line-height:37px;}
 	#about .about-in h2{font-size:1.8em; width:700px !important;}
 	#our-work h2, #studio h2{font-size:2.9em; line-height:39px; padding:0 0 30px 0; background-position:center -614px;
-	
+
 		background-size: 788px auto !important;
  	-o-background-size:788px auto !important;  
   -webkit-background-size:788px auto !important;   
   -khtml-background-size:788px auto !important;   
   -moz-background-size:788px auto !important;
-		
+
 		}
-		
-		
+
+
 	#creative-lab	h2{font-size:6.1em; background-position:center -1842px; padding:0 0 15px 0 ; line-height: 29px; }
 	#creative-lab h2 span.one{margin:0 55px 0 -155px; letter-spacing:0; line-height: 61px;}
 	#creative-lab h2 span.two{margin:0 0 0 255px;}
 	#lab{margin-top:0;}
-		
+
 		#our-work .work-in h4{ font-size:2em !important; margin-top:40px;}	
 	#our-work .work-in a.git{font-size:1.5em !important; width:300px;}
-		
+
 	#our-work h3{font-size:2.1em; line-height:29px;  padding:0 0 30px 0;}
-	
+
 	/*#studio h2{background-position:0 0;}*/
 	#studio .studio-in h4{font-size:1.8em; padding:10px 0;}
 	header{height:365px !important; position:relative !important; top:-1px !important;}
@@ -1426,72 +1426,72 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	header .headerBg2, header .headerBg31, header .headerBg32, header .headerBg3, .headerBg4{display:none;}
 	header .headerBg{margin-top:-100px !important; height:443px;}
 	header .headerBg2-1{display:block; height:365px; width:100%;background-image:url("../images/topBanner.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;
-		
+
 		-o-background-size:1091px auto !important;  
   -webkit-background-size:1091px auto !important;   
   -khtml-background-size:1091px auto !important;   
   -moz-background-size:1091px auto !important;
   background-size: 1091px auto !important;
-		
+
 		}
-	
+
 	.topicBg2{display:none;}
 	.topicBg2-none{height:253px; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;}
-	
-	
+
+
 	#our-work .topicBg{height:253px;}
 	#our-work .topicBg .catagory-in{width:740px !important;}
 	#our-work .topicBg .catagory-in a{font-size:6em; letter-spacing:-5px; margin-top:66px !important;}
 	#our-work .topicBg .catagory-in a span{font-size:17px}
-	
+
 	#our-work .catagory .catagory-in a.web{width:206px;}
 	#our-work .catagory .catagory-in a.brand{margin-left:60px !important; width:200px;}
 	#our-work .catagory .catagory-in a.app{margin-left:45px !important; width:210px;}
-	
-	
+
+
 	.cont .n1 span{background-position:14px -25px;}
 	.b0{background-position:-30px -262px;}
-	
-	
+
+
 	 #contact-us h2, #our-work .catagory{
 		-o-background-size:1384px auto !important;  
   -webkit-background-size:1384px auto !important;   
   -khtml-background-size:1384px auto !important;   
   -moz-background-size:1384px auto !important;
   background-size: 1384px auto !important;
-		
+
 		}
-	
-	
-	
+
+
+
 	#about{margin-top:86px !important; height:730px;}
 	#about ul li.lr{width:210px;}
-	
+
 	#about ul li.m-email{width:320px;}
 	#about ul li.lr .social{margin-left:9px;}
 	#awwward{width:780px}
-	
+
 	#awards{width:760px; margin-top:95px;}
 	.awww_in h3 {background-position: -914px -1684px;}
 	.logobite h3 {background-position: -884px -1828px;}
 	#awww .awww_in a, #awww .logobite a {font-size:1.2em;}
-	
+
 	.footer-in ul{margin-left:10px}
 	.footer-in{border:0px solid #000; width:760px;}
 	.footer-in li{float:left; border:0px solid #000}
 	.footer-in h6{background-position:center -2064px;}
-	
+
 	.cont .n1 span{background-position:4px -232px !important;}
 	.cont .n2 span{background-position:-211px -2983px !important;}
-	
-	
+
+
 	.address{font-size:1.2em; padding:25px 0 20px;}
 	.address ul li{font-size:1.1em}
 	.address ul li.add{width:160px; padding:0 0 0 48px;}
 	.address ul li.mob{width:134px;  padding:0 0 0 40px;}
 	.address ul li.eml{width:168px;  padding:0 0 0 53px;}
 	.address ul li.sn{width:80px;;  padding:0 0 0 55px;}
-	
+
 	.footer-in h6 a{font-size:1em; width:352px; margin-left:191px;}
 	#studio .studio-in h4{width:760px}
 	#studio p{margin:566px 0 100px;}
@@ -1499,9 +1499,9 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	#studio .big-box{width:700px !important; margin-top:90px !important;}
 	#studio .big-box, #studio .box1{margin-left:30px;}
 	#studio .box2{margin-left:255px;}
-	
-	
-	
+
+
+
 	#studio .box3{margin-left:492px;}
 	.work_box1, .work_box2, .work_box3{margin-top:15px;}
 	.work_box1{background-position:25px -1578px;}
@@ -1520,17 +1520,17 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -moz-background-size:1384px auto !important;
   height:365px; 
 	}
-	
+
 	header .headerBg3{background-position:49% -11px}
 	header .headerBg31{background-position:49% -388px}
 	header .headerBg32{background-position:48% -768px}
-		
+
 	header .headerBg4{background-position:51% -1152px;}
-			
+
 	header{height:444px; overflow:hidden; z-index:300;}
 	#about .about-in h2{padding:0 0 30px 0; width:760px; margin-top:-60px;}
-	
-	
+
+
 	#contact-us h2{font-size:2.9em; line-height:39px; padding:20px 0 27px 0;}
 	.contact-us-in .quick-contact{height:114px;}
 	.quick-contact-in ul li h3{padding:52px 0 0 26px; font-size:2.2em}
@@ -1545,7 +1545,7 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.likeUs{display:none}
 	.quick-contact-in ul li.imail a{ color:#fff; font-size:2.2em;}
   .quick-contact-in ul li.imail span{display:block;  letter-spacing:0;  font-size:1.4em;}
-	
+
 	.quick-contactBg{display:none;}
 	.quick-contactBg-non{height:120px; position:absolute; width:100%; background-color:#d40a37; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px;  background-position:center 0; background-repeat:no-repeat; z-index:20;}
 /*----- Start Portfolio Part ------*/	
@@ -1565,17 +1565,17 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	.res-bg{display:block}
 	a.bth{margin:-305px 0 0 746px;}
 	#about .about-in h2{padding:0 0 30px 0 !important; margin-top:-60px; width:900px;}
-	
+
 	.quick-contactBg{display:none;}
 	.quick-contactBg-non{height:160px; position:absolute; width:100%; background-color:#d40a37; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px;  background-position:center 0; background-repeat:no-repeat; z-index:20;}
-	
-	
+
+
 	.innerBgSmall{height:1064px; width:1229px; background-image:url("../images/innterBg.png");  top:-342px; left:-100px;position:absolute; background-position:center 0; background-repeat:no-repeat; z-index:30}
 	.innerBg{display:none;}
-	
+
 	.cont .n1 span{background-position:4px -232px !important; margin-top:0 !important;}
 	.cont .n2 span{background-position:-211px -2983px !important;  margin-top:0 !important;}
-	
+
 	.nav-in{width:980px !important;}
 	 header .headerBg32, header .headerBg31, header .headerBg3, header .headerBg4, .headerBg2{background-size: 1634px auto !important;
  	-o-background-size:1634px auto !important;  
@@ -1584,22 +1584,22 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
   -moz-background-size:1634px auto !important;
   height:444px; 
 	}
-	
+
 	header .headerBg2, header .headerBg31, header .headerBg32, header .headerBg3, .headerBg4, .studioBg2{display:none;}
 	header .headerBg{margin-top:-100px !important; height:443px;}
 	header .headerBg2-1{display:block; height:443px; width:100%;background-image:url("../images/topBanner.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;
-		
+
 			-o-background-size:1400px auto !important;  
   -webkit-background-size:1400px auto !important;   
   -khtml-background-size:1400px auto !important;   
   -moz-background-size:1400px auto !important;
   background-size: 1400px auto !important;
-		
+
 		}
-	
+
 	.topicBg2{display:none !important;}
 	.topicBg2-none{height:367px; text-align:left; background-image:url("../images/headerBg-nonani.jpg");  top:0px; background-position:center 0; background-repeat:no-repeat; z-index:20;}
-	
+
 	/*header .headerBg3{background-position:52% 0}
 	header .headerBg31{background-position:52% -447px}
 	header .headerBg32{background-position:52% -897px}
@@ -1609,11 +1609,6 @@ nav .blk_box, nav .blk_box .menu, nav .submenu,#slider, #slider .slider_in  {dis
 	header{height:444px; overflow:hidden; z-index:300;}
 	.quick-contact-in ul li.imail a{ color:#fff; font-size:2.2em;}
   .quick-contact-in ul li.imail span{display:block;  letter-spacing:0;  font-size:0.6em;}
-	
+
 	.links_in a span { margin-top:5px;}
 }
-
-
-
-
-
